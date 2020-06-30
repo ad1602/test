@@ -1,0 +1,38 @@
+div{
+	border: 20px solid #bacfd1;
+	width: 55%;
+	margin: auto;
+	margin-top: 10%;
+	padding: auto;
+	background: url(https://media-exp1.licdn.com/dms/image/C511BAQE0NnIkjkotGA/company-background_10000/0?e=2159024400&v=beta&t=VfMi04DVBs8hW5c5jId90MCJ6on9gpbKcRa_Hugy-KQ);
+}
+
+h4{
+	color: #0d9cde;
+	font-family: 'Cairo';
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin: 16px 16px 5px 16px;
+}
+
+p{
+	font-family: 'Dancing Script', cursive;
+	margin: 16px 16px 5px 16px;
+	border-left: 4px solid #bacfd1;
+	padding-left: 4px;
+	padding-bottom: 4px;
+}
+
+h1{
+	font-family: 'Balsamiq Sans';
+	color: #283f54;
+	margin:5px 16px;
+}
+
+hr{
+	width: 90%;
+}
+
+body{
+	background: #e8ebed;
+}
